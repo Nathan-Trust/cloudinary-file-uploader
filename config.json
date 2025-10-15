@@ -1,0 +1,10 @@
+{
+  "cloud_name": "your_cloud_name",
+  "api_key": "your_api_key",
+  "api_secret": "your_api_secret",
+  "default_folder": "my_uploads",
+  "output_file": "urls.txt",
+  "allowed_types": ["image/*", "video/*", "audio/*", "application/pdf"],
+  "max_file_size": 100000000,
+  "concurrent_uploads": 3
+}
