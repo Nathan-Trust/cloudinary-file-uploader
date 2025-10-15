@@ -1,0 +1,54 @@
+# TV Services
+ShowMax: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520580/tv/ShowMax.webp
+Pay-DSTV-Subscription: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520579/tv/Pay-DSTV-Subscription.webp
+Gotv-Payment: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520579/tv/Gotv-Payment.webp
+Startimes-Subscription: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520580/tv/Startimes-Subscription.webp
+
+# Electricity Services
+Abuja-Electric: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520581/electricity/Abuja-Electric.webp
+apl-electric: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520581/electricity/apl-electric.webp
+Benin-Electricity-BEDC: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520582/electricity/Benin-Electricity-BEDC.webp
+Eko-Electric-Payment-PHCN: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520582/electricity/Eko-Electric-Payment-PHCN.webp
+Enugu-Electric-EEDC: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520583/electricity/Enugu-Electric-EEDC.webp
+IBEDC-Ibadan-Electricity-Distribution-Company: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520584/electricity/IBEDC-Ibadan-Electricity-Distribution-Company.webp
+Ikeja-Electric-Payment-PHCN: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520584/electricity/Ikeja-Electric-Payment-PHCN.webp
+Jos-Electric-JED: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520585/electricity/Jos-Electric-JED.webp
+Kaduna-Electric-KAEDCO: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520585/electricity/Kaduna-Electric-KAEDCO.webp
+Kano-Electric: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520586/electricity/Kano-Electric.webp
+Port-Harcourt-Electric: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520586/electricity/Port-Harcourt-Electric.webp
+yedc: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520587/electricity/yedc.webp
+
+# Betting Services
+western-lotto: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520588/betting/western-lotto.webp
+wazo-bet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520588/betting/wazo-bet.webp
+supabet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520589/betting/supabet.webp
+sporty: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520589/betting/sporty.webp
+onexbet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520590/betting/onexbet.webp
+nairabet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520590/betting/nairabet.webp
+naijabet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520591/betting/naijabet.webp
+ms-sport: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520591/betting/ms-sport.webp
+merrybet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520592/betting/merrybet.webp
+m-lotto: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520592/betting/m-lotto.webp
+livescorebet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520593/betting/livescorebet.webp
+halla-bet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520593/betting/halla-bet.webp
+green-lotto: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520594/betting/green-lotto.webp
+cloudbet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520594/betting/cloudbet.webp
+betway: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520595/betting/betway.webp
+betlion: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520595/betting/betlion.webp
+betland: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520596/betting/betland.webp
+betking: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520596/betting/betking.webp
+bet9ja: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520597/betting/bet9ja.webp
+bangbet: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520597/betting/bangbet.webp
+a: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520598/betting/a.webp
+
+# Airtime Services
+MTN-Airtime: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520598/MTN-Airtime.webp
+GLO-Airtime: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520599/GLO-Airtime.webp
+Airtel-Airtime: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520599/Airtel-Airtime.webp
+9mobile-Airtime: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520600/9mobile-Airtime.webp
+
+# Data Services
+MTN-CHEAP: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520600/MTN-CHEAP.webp
+GLO-cheap: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520601/GLO-cheap.webp
+airtel-cheap: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520601/airtel-cheap.webp
+9mobile-Data: https://res.cloudinary.com/ds8i1mwhj/image/upload/v1760520602/9mobile-Data.webp
