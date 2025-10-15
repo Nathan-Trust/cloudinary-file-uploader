@@ -115,6 +115,11 @@
             <input type="text" id="folder" placeholder="e.g., my-uploads">
         </div>
         <div class="form-group">
+            <label for="uploadPreset">Cloudinary Upload Preset (unsigned):</label>
+            <input type="text" id="uploadPreset" value="unsigned_preset">
+            <small>Use an <strong>unsigned</strong> upload preset from your Cloudinary dashboard (recommended for browser uploads). Create it in Cloudinary Dashboard → Settings → Upload → Upload presets → Create preset and enable "Unsigned".</small>
+        </div>
+        <div class="form-group">
             <label for="fileType">File Type:</label>
             <select id="fileType">
                 <option value="image/*">Images (jpg, png, gif, webp, etc.)</option>
@@ -180,16 +185,15 @@
                         formData.append('folder', folder);
                     }
 
-                    const response = await fetch(
-                        `https://api.cloudinary.com/v1_1/${cloudName}/upload`,
-                        {
-                            method: 'POST',
-                            headers: {
-                                'Authorization': 'Basic ' + btoa(apiKey + ':' + apiSecret)
-                            },
-                            body: formData
-                        }
-                    );
+                    // Use unsigned preset or server-signed flow. Do NOT send API secret from the browser.
+                    const preset = document.getElementById('uploadPreset').value || 'unsigned_preset';
+                    formData.append('upload_preset', preset);
+
+                    // Do not send Authorization header from browser (causes CORS preflight rejection).
+                    const response = await fetch(`https://api.cloudinary.com/v1_1/${cloudName}/upload`, {
+                        method: 'POST',
+                        body: formData
+                    });
 
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
